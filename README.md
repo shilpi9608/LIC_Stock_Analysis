@@ -16,10 +16,14 @@ This repository contains a **Power BI dashboard** analyzing the stock performanc
 
 ## 📂 Repository Structure
 
-├── data/ # Raw and processed datasets 
+├── data/ # Raw and processed datasets
+
 ├── pbix/ # Power BI .pbix project file
+
 ├── images/ # Dashboard screenshots
+
 │ └── lic_dashboard.png
+
 ├── README.md # Project documentation
 
 
@@ -51,4 +55,4 @@ This repository contains a **Power BI dashboard** analyzing the stock performanc
 ## 🔧 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/lic-stock-dashboard.git
+   git clone https://github.com/shilpi9608/LIC_Stock_Analysis.git
